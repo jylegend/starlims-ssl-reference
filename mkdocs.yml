@@ -2,20 +2,20 @@ site_name: SSL Reference
 hooks:
   - docs/hooks.py
 site_description: Unofficial reference for the STARLIMS Scripting Language (SSL), documenting STARLIMS version 11
-site_url: https://mahoskye.github.io/starlims-ssl-reference/
-repo_url: https://github.com/mahoskye/starlims-ssl-reference
-repo_name: mahoskye/starlims-ssl-reference
+site_url: https://jylegend.github.io/starlims-ssl-reference/
+repo_url: https://github.com/jylegend/starlims-ssl-reference
+repo_name: jylegend/starlims-ssl-reference
 edit_uri: edit/main/content/
 docs_dir: content
 site_dir: _site
 exclude_docs: |
   data/
 copyright: >
-  Copyright &copy; Benjamin Buddle (mahoskye) —
+  Copyright &copy; Benjamin Buddle (jylegend) —
   licensed under
   <a href="https://creativecommons.org/licenses/by/4.0/" target="_blank" rel="noopener">CC BY 4.0</a>.
   Unofficial; not affiliated with STARLIMS. Documents STARLIMS v11 —
-  <a href="https://mahoskye.github.io/starlims-ssl-reference/about/">about this reference</a>.
+  <a href="https://jylegend.github.io/starlims-ssl-reference/about/">about this reference</a>.
 
 theme:
   name: material
@@ -84,7 +84,7 @@ markdown_extensions:
 extra:
   social:
     - icon: fontawesome/brands/github
-      link: https://github.com/mahoskye/starlims-ssl-reference
+      link: https://github.com/jylegend/starlims-ssl-reference
 
 nav:
   - Home: index.md
